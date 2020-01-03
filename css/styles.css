@@ -95,7 +95,7 @@ hr {
   margin: 200px auto auto;
 }
 
-.intro{
+.intro {
   with: 30%;
   margin: auto;
 }
@@ -126,7 +126,7 @@ hr {
 .bottom-cloud {
   position: absolute;
   left: 250px;
-  bottom: 420px;
+  bottom: 410px;
 }
 
 .btn {
