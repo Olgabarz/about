@@ -90,6 +90,11 @@ hr {
   text-decoration: underline;
 }
 
+.top-intro {
+  width: 30%;
+  margin: 50px auto auto;
+}
+
 .intro{
   with: 30%;
   margin: auto;
