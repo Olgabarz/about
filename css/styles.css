@@ -80,7 +80,9 @@ hr {
 
 .top-intro {
   width: 30%;
-  margin: 100px auto auto;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin: 20px auto 20px auto;
   padding: 100px auto auto;
 }
 
@@ -115,11 +117,6 @@ hr {
   position: absolute;
   left: 300px;
   bottom: 370px;
-}
-
-.btn {
-  color: #381460;
-  text-decoration: none;
 }
 
 .footer-link {
