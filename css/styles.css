@@ -3,8 +3,6 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-
-
 }
 
 h1 {
@@ -20,12 +18,10 @@ a {
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
-
 }
 
 a:hover {
   color: #fbdff0;
-
 }
 
   h2 {
@@ -43,7 +39,6 @@ a:hover {
 
 p {
   line-height: 2;
-
 }
 
 hr {
@@ -54,7 +49,6 @@ hr {
   width: 4%;
   margin: 100px auto;
 }
-
 
 
 .top-container {
@@ -68,19 +62,16 @@ hr {
   margin: 10px 0;
 }
 
-
 .bottom-container {
   background-color: #a278b5;
   padding: 50px 0 20px;
   text-decoration: none;
-
 }
 
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: right;
-
 }
 
 .pro {
@@ -94,12 +85,11 @@ hr {
 
 .intro {
   with: 30%;
-  margin: auto;
+  margin: auto; 30px; auto;
 }
 
 
 .contact-me {
-
   text-decoration: none;
 }
 
@@ -128,16 +118,13 @@ hr {
 
 .btn {
   color: #381460;
-
-text-decoration: none;
+  text-decoration: none;
 }
 
 .footer-link {
   color: #381460;
-text-decoration: none;
-
-  }
-
+  text-decoration: none;
+}
 
   .webdesign {
     width: 25%;
