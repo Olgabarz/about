@@ -69,6 +69,11 @@ hr {
   text-decoration: none;
 }
 
+.intro {
+  width: 50%;
+  margin: auto;
+}
+
 .skill-row {
   width: 50%;
   margin: 80px auto 80px auto;
@@ -77,11 +82,6 @@ hr {
 
 .pro {
   text-decoration: underline;
-}
-
-.intro {
-  width: 30%;
-  margin: auto;
 }
 
 .contact-me {
@@ -108,7 +108,7 @@ hr {
 .bottom-cloud {
   position: absolute;
  left: 240px;
-  bottom: 300px;
+  bottom: 310px;
 }
 
 .footer-link {
