@@ -24,7 +24,7 @@ a:hover {
   color: #fbdff0;
 }
 
-  h2 {
+h2 {
     color: #A21A8D;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
@@ -32,7 +32,7 @@ a:hover {
     padding-bottom: 10px;
   }
 
-  h3 {
+h3 {
     color: #a278b5;
     font-family: 'Montserrat', sans-serif;
   }
@@ -117,7 +117,7 @@ hr {
 .bottom-cloud {
   position: absolute;
   left: 300px;
-  bottom: 320px;
+  bottom: 300px;
 }
 
 .footer-link {
