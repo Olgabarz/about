@@ -68,8 +68,8 @@ hr {
 }
 
 .intro {
-  width: 822.922px;
-  padding: 80px auto 80px auto;
+  width: 100%;
+  margin: auto;
 }
 
 .skill-row {
