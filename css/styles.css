@@ -39,7 +39,7 @@ a:hover {
 
 p {
   line-height: 2;
-  margin: 100px 216.250px; 
+ 
 }
 
 hr {
@@ -83,7 +83,7 @@ hr {
   width: 30%;
   font-size: 0.75rem;
   line-height: 2;
-  margin: 20px auto 20px auto;
+  margin: 100px 216.250px; 
   padding: 100px auto auto;
 }
 
