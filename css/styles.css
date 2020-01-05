@@ -77,7 +77,6 @@ hr {
 .skill-row {
   width: 50%;
   margin: 80px auto 80px auto;
-  text-align: right;
 }
 
 .pro {
@@ -124,12 +123,14 @@ hr {
     width: 25%;
     float: right;
     margin-left: 30px;
+    text-align: left;
   }
 
 .friends {
   width: 25%;
   float: left;
   margin-right: 30px;
+  text-align: right;
 }
 
 .myButton {
