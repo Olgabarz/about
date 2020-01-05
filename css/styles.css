@@ -45,9 +45,9 @@ p {
 hr {
   border: dotted;
   color: #EAF6F;
-  font-size: 6px;
+  font-size: 10px;
   border-bottom: none;
-  width: 7%;
+  width: 4%;
   margin: 100px auto;
 }
 
@@ -90,7 +90,7 @@ hr {
 }
 
 .contact-message {
-  width: 40%;
+  width: 70%;
   margin: 40px auto 60px;
 }
 
