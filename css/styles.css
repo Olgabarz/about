@@ -79,19 +79,10 @@ hr {
   text-decoration: underline;
 }
 
-.top-intro {
-  width: 30%;
-  font-size: 0.75rem;
-  line-height: 2;
-  margin: 50px 216.250px; 
-}
-
 .intro {
   with: 30%;
- 
-  margin: 50 40px 50;
+  margin: 50px 40px 50px;
 }
-
 
 .contact-me {
   text-decoration: none;
