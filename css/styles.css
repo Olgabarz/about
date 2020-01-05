@@ -108,7 +108,7 @@ hr {
 .bottom-cloud {
   position: absolute;
  left: 240px;
-  bottom: 320px;
+  bottom: 300px;
 }
 
 .footer-link {
@@ -120,7 +120,7 @@ hr {
   margin: 10px auto auto;
 }
 
-  .webdesign {
+ .webdesign {
     width: 25%;
     float: right;
     margin-left: 30px;
