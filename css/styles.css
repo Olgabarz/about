@@ -68,7 +68,7 @@ hr {
 }
 
 .intro {
-  width: 30%;
+  width: 70%;
   margin: auto;
  font-size: 20px;
 }
@@ -88,7 +88,8 @@ hr {
 }
 
 .contact-message {
-	width: 40%;
+	width: 70%;
+	font-size: 20px;
   margin: 40px auto 60px;
 }
 
@@ -107,7 +108,7 @@ hr {
 .bottom-cloud {
   position: absolute;
  left: 240px;
-  bottom: 320px;
+  bottom: 340px;
 }
 
 .footer-link {
