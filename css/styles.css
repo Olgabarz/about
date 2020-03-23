@@ -50,10 +50,11 @@ hr {
   margin: 100px auto;
 }
 
+
 .top-container {
   background-color: #dedef0;
   position: relative;
-  padding-top: 120px 0;
+  padding-top: 120px;
 }
 
 .middle-container {
@@ -69,8 +70,7 @@ hr {
 
 .intro {
   width: 70%;
-  margin: auto;
-  font-size: 20px;
+  margin: 80px auto 80px auto;
 }
 
 .skill-row {
@@ -88,8 +88,7 @@ hr {
 }
 
 .contact-message {
-	width: 70%;
-	font-size: 20px;
+  width: 70%;
   margin: 40px auto 60px;
 }
 
@@ -108,7 +107,7 @@ hr {
 .bottom-cloud {
   position: absolute;
  left: 240px;
-  bottom: 280px;
+  bottom: 320px;
 }
 
 .footer-link {
@@ -124,14 +123,14 @@ hr {
     width: 25%;
     float: right;
     margin-left: 30px;
-    
+
   }
 
 .friends {
   width: 25%;
   float: left;
   margin-right: 30px;
- 
+
 }
 
 .myButton {
@@ -143,7 +142,7 @@ hr {
 	cursor:pointer;
 	color:#ffffff;
 	font-family: 'Montserrat', sans-serif;
-	font-size:22px;
+	font-size:20px;
 	padding:8px 15px;
 	text-decoration:none;
 	text-shadow:0 1px 0 #371460;
