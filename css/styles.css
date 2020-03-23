@@ -53,7 +53,7 @@ hr {
 .top-container {
   background-color: #dedef0;
   position: relative;
-  padding-top: 120px;
+  padding-top: 120px 0;
 }
 
 .middle-container {
