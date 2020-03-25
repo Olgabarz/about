@@ -69,8 +69,8 @@ hr {
 
 .intro {
   width: 70%;
-  margin: auto;
-  font-size: 18px;
+  margin: 80px auto 80px auto;
+
 }
 
 .skill-row {
@@ -101,7 +101,7 @@ hr {
 
 .top-cloud {
   position: absolute;
-  right: 300px;
+  right: 200px;
   top: 30px;
 }
 
