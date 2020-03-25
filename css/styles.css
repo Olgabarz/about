@@ -60,7 +60,8 @@ hr {
 .intro {
   width: 70%;
   margin: 80px auto 80px auto;
-  font-size: 20px;
+  font-size: 20px;	
+}
 
 .middle-container {
   background-color: #fda77f;
@@ -71,9 +72,6 @@ hr {
   background-color: #a278b5;
   padding: 50px 0 20px;
   text-decoration: none;
-}
-
-
 }
 
 .skill-row {
@@ -92,7 +90,8 @@ hr {
 
 .contact-message {
   width: 70%;
-  margin: 40px auto 60px;	
+  margin: 40px auto 60px;
+  font-size: 19px;
 }
 
 .copyright {
@@ -125,15 +124,13 @@ hr {
  .webdesign {
     width: 25%;
     float: right;
-    margin-left: 30px;
-    
+    margin-left: 30px; 
   }
 
 .friends {
   width: 25%;
   float: left;
   margin-right: 30px;
- 
 }
 
 .myButton {
@@ -154,6 +151,7 @@ hr {
 	background:linear-gradient(to bottom, #a278b5 5%, #f6c3e5 100%);
 	background-color:#a278b5;
 }
+
 .myButton:active {
 	position:relative;
 	top:1px;
