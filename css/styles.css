@@ -63,8 +63,6 @@ hr {
   text-align: center;
 }
 
-
-
 .middle-container {
   background-color: #fda77f;
   margin: 10px 0;
@@ -94,7 +92,7 @@ hr {
 .contact-message {
   width: 70%;
   margin: 40px auto 60px;
-  font-size: 22px;
+  font-size: ;
 }
 
 .copyright {
