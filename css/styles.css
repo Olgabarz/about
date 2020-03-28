@@ -57,6 +57,12 @@ hr {
   padding-top: 120px 0;
 }
 
+.profile {
+  width: 70%;
+  margin: 80px auto 80px auto;
+  text-align: center;
+}
+
 .intro {
   width: 70%;
   margin: 80px auto 80px auto;
